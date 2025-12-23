@@ -17,7 +17,7 @@ FHEVM enables smart contracts to perform computations on encrypted data without 
 
 [Video](https://youtu.be/I7PpMHtvOyw)
 
-[Demo Live](https://privacy-insurance-claims-for-the-za.vercel.app/)
+[Demo Live](https://privacy-insurance-claims.vercel.app/)
 
 ## Features
 
